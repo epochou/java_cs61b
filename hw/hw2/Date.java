@@ -3,7 +3,6 @@
 import java.io.*;
 
 class Date {
-
   /* Put your private data fields here. */
   private int month;
   private int day;

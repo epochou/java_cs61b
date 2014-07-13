@@ -1,4 +1,4 @@
-                              CS 61B  Homework 2
+                             CS 61B  Homework 2
                      Due noon Wednesday, February 5, 2014
 
 This homework assignment is designed to help you learn about building Java
